@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jinx/Desktop/hw1/cs285/scripts/../data/bc_test_bc_ant_Ant-v2_15-06-2020_00-50-57/policy_itr_0"
+all_model_checkpoint_paths: "/home/jinx/Desktop/hw1/cs285/scripts/../data/bc_test_bc_ant_Ant-v2_15-06-2020_00-50-57/policy_itr_0"
