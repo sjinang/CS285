@@ -1,1 +1,1 @@
-# CS285 Homework Solutions
+# CS285 UC Berkeley Homework Solutions
